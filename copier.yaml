@@ -33,7 +33,7 @@ maintainer_email:
 
 maintainer_username:
   type: str
-  help: Your username (e.g. on GitHub)
+  help: Your username on the repository provider
   default: stuartellis
 
 repository_provider:
