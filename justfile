@@ -25,4 +25,4 @@ tag-version:
     #!/usr/bin/env sh
     set -eu
     TIMESTAMP=$(date -u +"%Y%m%dT%H%M%SZ")
-    git tag v{{ version }} -m "Release for $TIMESTAMP"
+    git tag {{ version }} -m "Release for $TIMESTAMP"
