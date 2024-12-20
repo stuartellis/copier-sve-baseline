@@ -14,7 +14,7 @@ _min_copier_version: "9"
 _subdirectory: template
 
 # Name of the answers file
-_answers_file: .copier.baseline.yaml
+_answers_file: .copier-answers-baseline.yaml
 
 project_name:
   type: str
