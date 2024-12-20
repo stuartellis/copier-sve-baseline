@@ -10,8 +10,6 @@
 # - pre-commit: https://pre-commit.com
 # - uv: https://github.com/astral-sh/uv
 
-version := `grep 'Version: ' README.md | cut -f2 -d' '`
-
 # List available recipes
 help:
     @just --list
@@ -19,10 +17,3 @@ help:
 # Run linters
 lint:
     @pre-commit run --all-files
-
-# Tag a version
-tag-version:
-    #!/usr/bin/env sh
-    set -eu
-    TIMESTAMP=$(date -u +"%Y%m%dT%H%M%SZ")
-    git tag {{ version }} -m "Release for $TIMESTAMP"

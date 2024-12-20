@@ -10,8 +10,6 @@ SPDX-License-Identifier: MIT
 
 This [Copier](https://copier.readthedocs.io/en/stable/) template provides essential files that are required for any software project.
 
-Version: 0.5.0
-
 ## Install
 
 You need [Copier](https://copier.readthedocs.io/en/stable/) to use this template.

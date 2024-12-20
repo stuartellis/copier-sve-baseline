@@ -9,5 +9,11 @@
 
 config:
 
+  # Allow multiple consecutive blank lines
+  MD012: false
+
   # Disable maximum line-length
   MD013: false
+
+  # Allow multiple headings with the same content
+  MD024: false
