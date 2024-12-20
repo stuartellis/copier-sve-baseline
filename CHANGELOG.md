@@ -8,6 +8,9 @@
 - Add python-semantic-release
   ([`4c87fb4`](https://github.com/stuartellis/copier-sve-baseline/commit/4c87fb4c335360c9809ddf183d0ce580d4196ec0))
 
+- Enable CHANGELOG generation
+  ([`08007a4`](https://github.com/stuartellis/copier-sve-baseline/commit/08007a42ac51e976d6c0e35a329c2a9a882d836e))
+
 
 ## v0.5.0 (2024-12-20)
 
