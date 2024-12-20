@@ -34,7 +34,7 @@ To update a project again with this template, run these commands:
 
 ```shell
 cd your-project-name
-copier update .
+copier update -a .copier-answers-baseline.yaml .
 ```
 
 ## Contributing
