@@ -5,13 +5,16 @@
 #
 # Configuration for Copier CLI tool
 #
-# See https://yamllint.readthedocs.io
+# See: https://copier.readthedocs.io/en/stable/
 
 # This template uses the configuration format introduced in Copier version 9
 _min_copier_version: "9"
 
 # Use this subdirectory of the repository as the root directory of the template
 _subdirectory: template
+
+# Name of the answers file
+_answers_file: .copier.baseline.yaml
 
 project_name:
   type: str
