@@ -18,6 +18,6 @@ help:
 lint:
     @pre-commit run --all-files
 
-# Release minor version
+# Release
 release:
-    @semantic-release version --minor
+    @semantic-release version
