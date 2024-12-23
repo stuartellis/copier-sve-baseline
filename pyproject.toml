@@ -10,7 +10,7 @@
 
 [project]
 name = "copier-sve-baseline"
-version = "0.6.0"
+version = "0.1.0"
 description = "Copier template for software projects"
 readme = "README.md"
 requires-python = ">=3.12"
@@ -30,7 +30,7 @@ logging_use_named_masks = false
 major_on_zero = true
 allow_zero_version = true
 no_git_verify = false
-tag_format = "{version}"
+tag_format = "v{version}"
 version_toml = [
   "pyproject.toml:project.version",
 ]
