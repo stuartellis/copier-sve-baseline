@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.2.0 (2024-12-23)
+
+### Features
+
+- **tools**: Add release recipe to justfile
+  ([`26ed70b`](https://github.com/stuartellis/copier-sve-baseline/commit/26ed70bbfdecc92e8f7362a63397118d9a058180))
+
+
 ## v0.1.0 (2024-12-23)
 
 ### Bug Fixes
