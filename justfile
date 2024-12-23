@@ -17,3 +17,7 @@ help:
 # Run linters
 lint:
     @pre-commit run --all-files
+
+# Release minor version
+release:
+    @semantic-release version --minor
