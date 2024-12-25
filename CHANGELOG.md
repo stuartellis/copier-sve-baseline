@@ -1,6 +1,36 @@
 # CHANGELOG
 
 
+## v0.3.0 (2024-12-25)
+
+### Bug Fixes
+
+- **formatting**: Amend YAML formatting
+  ([`32d6219`](https://github.com/stuartellis/copier-sve-baseline/commit/32d6219fad552be60cba84b8f40a6911a8df5e6e))
+
+- **tools**: Add just to GitHub Actions
+  ([`43b1cfb`](https://github.com/stuartellis/copier-sve-baseline/commit/43b1cfbc608a91fb787870fd77a4ee35e952f6d0))
+
+- **tools**: Amend release recipe in justfile
+  ([`220c334`](https://github.com/stuartellis/copier-sve-baseline/commit/220c33441b0a2029b89de15f109c2fec5295bc2e))
+
+### Chores
+
+- **tools**: Amend event trigger for GH Actions
+  ([`295d6e4`](https://github.com/stuartellis/copier-sve-baseline/commit/295d6e47bb7ddb77c4f114186b63b2a8025b5a24))
+
+- **tools**: Upgrade versions for GH Actions
+  ([`f260570`](https://github.com/stuartellis/copier-sve-baseline/commit/f260570a41c05dc2e6726a376e6473ee1ac81ada))
+
+### Features
+
+- **ci**: Add Dependabot
+  ([`bd668de`](https://github.com/stuartellis/copier-sve-baseline/commit/bd668dedbd148c4604573689ebd524bb5b0ebc10))
+
+- **tools**: Add GitHub Actions
+  ([`4646b61`](https://github.com/stuartellis/copier-sve-baseline/commit/4646b612ab8db6ed1d2b2c8a09e18f93fc09eea5))
+
+
 ## v0.2.0 (2024-12-23)
 
 ### Features
