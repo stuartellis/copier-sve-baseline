@@ -14,7 +14,7 @@ This [Copier](https://copier.readthedocs.io/en/stable/) template provides essent
 
 You need [Copier](https://copier.readthedocs.io/en/stable/) to use this template.
 
-Use [uv](https://docs.astral.sh/uv/) or [pipx](https://pipx.pypa.io/) to install Copier. For example, run this command to install Copier with *uv*:
+Use [uv](https://docs.astral.sh/uv/) or [pipx](https://pipx.pypa.io/) to install Copier. For example, run this command to install Copier with _uv_:
 
 ```shell
 uv tool install copier
@@ -22,7 +22,7 @@ uv tool install copier
 
 ## Usage
 
-To create a project with this template, use the *copy* sub-command:
+To create a project with this template, use the _copy_ sub-command:
 
 ```shell
 copier copy git+https://github.com/stuartellis/copier-sve-baseline your-project-name
