@@ -1,6 +1,17 @@
 # CHANGELOG
 
 
+## v0.4.0 (2024-12-26)
+
+### Features
+
+- **ci**: Add python-semantic-release
+  ([`ea647d3`](https://github.com/stuartellis/copier-sve-baseline/commit/ea647d3a92fff4ca4623fad9b1f60ef8329d20a3))
+
+- **ci**: Improve CI workflows
+  ([`8dbc9e2`](https://github.com/stuartellis/copier-sve-baseline/commit/8dbc9e24edc538fceab70bc7e871f55bb4c847ac))
+
+
 ## v0.3.0 (2024-12-25)
 
 ### Bug Fixes
