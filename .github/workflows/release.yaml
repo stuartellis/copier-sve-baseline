@@ -3,33 +3,42 @@
 #
 # SPDX-License-Identifier: MIT
 #
-# Configuration for GitHub Actions
+# Configuration for a GitHub Actions workflow
 #
 # See: https://github.com/features/actions
 
 name: release
 
 # yamllint disable-line rule:truthy
-on: push
-
-permissions:
-  contents: write
+on:
+  push:
+    branches:
+      - main
 
 jobs:
   release:
     runs-on: ubuntu-latest
-    if: startsWith(github.ref, 'refs/tags/')
+    concurrency: release
+
+    permissions:
+      id-token: write
+      contents: write
+
     steps:
-      - name: Checkout
+      - name: Setup | Checkout Repository at workflow SHA
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          fetch-tags: true
-      - name: Setup Python
-        uses: actions/setup-python@v5
+          ref: ${{ github.sha }}
+
+      - name: Setup | Force correct release branch on workflow SHA
+        run: |
+          git checkout -B ${{ github.ref_name }} ${{ github.sha }}
+
+      - name: Action | Semantic Version Release
+        id: release
+        uses: python-semantic-release/python-semantic-release@v9.15.2
         with:
-          python-version: '3.12'
-      - name: Setup uv
-        uses: astral-sh/setup-uv@v3
-      - name: Prepare release
-        run: uv tool run --from python-semantic-release semantic-release version
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          git_committer_name: 'github-actions'
+          git_committer_email: 'actions@users.noreply.github.com'
