@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.6.0 (2024-12-27)
+
+### Features
+
+- **tools**: Use modern Prettier defaults
+  ([`8ccc484`](https://github.com/stuartellis/copier-sve-baseline/commit/8ccc48478a39c72da41ae846541df9f33e596a2f))
+
+
 ## v0.5.0 (2024-12-27)
 
 ### Chores
