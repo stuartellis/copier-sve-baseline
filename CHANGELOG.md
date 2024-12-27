@@ -1,6 +1,22 @@
 # CHANGELOG
 
 
+## v0.5.0 (2024-12-27)
+
+### Chores
+
+- **tools**: Clean up header for pyproject.toml
+  ([`e61be9a`](https://github.com/stuartellis/copier-sve-baseline/commit/e61be9adce1d20329a23721fd79ce4c39d61e835))
+
+- **tools**: Improve justfile
+  ([`319f8cf`](https://github.com/stuartellis/copier-sve-baseline/commit/319f8cf9057ae40484850514c24f405ab67821f9))
+
+### Features
+
+- **tools**: Remove semantic-release defaults from pyproject.toml
+  ([`73af4c8`](https://github.com/stuartellis/copier-sve-baseline/commit/73af4c8549927e1bb02847aef48c0dfdcb213420))
+
+
 ## v0.4.0 (2024-12-26)
 
 ### Features
