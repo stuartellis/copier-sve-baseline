@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.6.1 (2024-12-28)
+
+### Bug Fixes
+
+- **template**: Amend exclusions for Copier answers files
+  ([`e2bae7b`](https://github.com/stuartellis/copier-sve-baseline/commit/e2bae7b8f76291f68eba7cc7e44541e675cc02c0))
+
+
 ## v0.6.0 (2024-12-27)
 
 ### Features
