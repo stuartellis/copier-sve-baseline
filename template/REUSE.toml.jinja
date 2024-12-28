@@ -2,11 +2,23 @@
 #
 # SPDX-License-Identifier: MIT
 #
-# Configuration for REUSE:
+# Configuration for REUSE
 #
-# https://reuse.software/
+# See: https://reuse.software/
 
 version = 1
 SPDX-PackageName = "{{ project_name }}"
 SPDX-PackageSupplier = "{{ maintainer_fullname }} <{{ maintainer_email }}>"
 SPDX-PackageDownloadLocation = "https://{{ repository_provider }}/{{ repository_namespace }}/{{ project_name }}"
+
+[[annotations]]
+path = "CHANGELOG.md"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "{{ maintainer_fullname }}"
+SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+path = "copier-*.yaml"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "{{ maintainer_fullname }}"
+SPDX-License-Identifier = "MIT"
