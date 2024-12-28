@@ -1,6 +1,17 @@
 # CHANGELOG
 
 
+## v0.6.2 (2024-12-28)
+
+### Bug Fixes
+
+- **tools**: Amend files for Prettier compatibility
+  ([`736b4e7`](https://github.com/stuartellis/copier-sve-baseline/commit/736b4e71dd725ef99a84446dc17adc3d21710523))
+
+- **tools**: Update for Prettier compatibility
+  ([`0bd0cd1`](https://github.com/stuartellis/copier-sve-baseline/commit/0bd0cd1beefb65efafda60403ab857892e8bb139))
+
+
 ## v0.6.1 (2024-12-28)
 
 ### Bug Fixes
