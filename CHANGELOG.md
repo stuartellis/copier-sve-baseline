@@ -1,6 +1,19 @@
 # CHANGELOG
 
 
+## v0.6.3 (2024-12-28)
+
+### Bug Fixes
+
+- **template**: Amend copyright year templating
+  ([`8435842`](https://github.com/stuartellis/copier-sve-baseline/commit/84358420929190616c045f184e74ecce8bab4317))
+
+### Chores
+
+- **template**: Add special cases to REUSE.toml
+  ([`25ff6bb`](https://github.com/stuartellis/copier-sve-baseline/commit/25ff6bb3ae4c10b9f417b991690d5124268d7dc4))
+
+
 ## v0.6.2 (2024-12-28)
 
 ### Bug Fixes
