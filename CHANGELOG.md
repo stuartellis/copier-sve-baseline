@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.8.0 (2025-01-01)
+
+### Features
+
+- **template**: Update templated .editorconfig
+  ([`a08e877`](https://github.com/stuartellis/copier-sve-baseline/commit/a08e8772e15b3214156555af3fc49b42244c7b82))
+
+
 ## v0.7.0 (2025-01-01)
 
 ### Features
