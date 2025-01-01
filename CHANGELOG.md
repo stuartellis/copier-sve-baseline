@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.7.0 (2025-01-01)
+
+### Features
+
+- **tools**: Extend .editorconfig
+  ([`17f8fe3`](https://github.com/stuartellis/copier-sve-baseline/commit/17f8fe3081dfdd1c8ee196c09b93e1e67a4b5c0f))
+
+
 ## v0.6.3 (2024-12-28)
 
 ### Bug Fixes
