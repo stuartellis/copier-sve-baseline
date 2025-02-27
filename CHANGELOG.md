@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.10.0 (2025-02-27)
+
+### Features
+
+- **tooling**: Update pre-commit and add gitleaks
+  ([`6038132`](https://github.com/stuartellis/copier-sve-baseline/commit/6038132944f3c1f87bba9e27a883f10b7162f65c))
+
+
 ## v0.9.0 (2025-02-27)
 
 ### Chores
