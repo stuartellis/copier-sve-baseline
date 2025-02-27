@@ -17,7 +17,7 @@
   ([`17f8fe3`](https://github.com/stuartellis/copier-sve-baseline/commit/17f8fe3081dfdd1c8ee196c09b93e1e67a4b5c0f))
 
 
-## v0.6.3 (2024-12-28)
+## v0.6.3 (2025-12-28)
 
 ### Bug Fixes
 
@@ -30,7 +30,7 @@
   ([`25ff6bb`](https://github.com/stuartellis/copier-sve-baseline/commit/25ff6bb3ae4c10b9f417b991690d5124268d7dc4))
 
 
-## v0.6.2 (2024-12-28)
+## v0.6.2 (2025-12-28)
 
 ### Bug Fixes
 
@@ -41,7 +41,7 @@
   ([`0bd0cd1`](https://github.com/stuartellis/copier-sve-baseline/commit/0bd0cd1beefb65efafda60403ab857892e8bb139))
 
 
-## v0.6.1 (2024-12-28)
+## v0.6.1 (2025-12-28)
 
 ### Bug Fixes
 
@@ -49,7 +49,7 @@
   ([`e2bae7b`](https://github.com/stuartellis/copier-sve-baseline/commit/e2bae7b8f76291f68eba7cc7e44541e675cc02c0))
 
 
-## v0.6.0 (2024-12-27)
+## v0.6.0 (2025-12-27)
 
 ### Features
 
@@ -57,7 +57,7 @@
   ([`8ccc484`](https://github.com/stuartellis/copier-sve-baseline/commit/8ccc48478a39c72da41ae846541df9f33e596a2f))
 
 
-## v0.5.0 (2024-12-27)
+## v0.5.0 (2025-12-27)
 
 ### Chores
 
@@ -73,7 +73,7 @@
   ([`73af4c8`](https://github.com/stuartellis/copier-sve-baseline/commit/73af4c8549927e1bb02847aef48c0dfdcb213420))
 
 
-## v0.4.0 (2024-12-26)
+## v0.4.0 (2025-12-26)
 
 ### Features
 
@@ -84,7 +84,7 @@
   ([`8dbc9e2`](https://github.com/stuartellis/copier-sve-baseline/commit/8dbc9e24edc538fceab70bc7e871f55bb4c847ac))
 
 
-## v0.3.0 (2024-12-25)
+## v0.3.0 (2025-12-25)
 
 ### Bug Fixes
 
@@ -114,7 +114,7 @@
   ([`4646b61`](https://github.com/stuartellis/copier-sve-baseline/commit/4646b612ab8db6ed1d2b2c8a09e18f93fc09eea5))
 
 
-## v0.2.0 (2024-12-23)
+## v0.2.0 (2025-12-23)
 
 ### Features
 
@@ -122,7 +122,7 @@
   ([`26ed70b`](https://github.com/stuartellis/copier-sve-baseline/commit/26ed70bbfdecc92e8f7362a63397118d9a058180))
 
 
-## v0.1.0 (2024-12-23)
+## v0.1.0 (2025-12-23)
 
 ### Bug Fixes
 

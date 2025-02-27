@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: 2024-present Stuart Ellis <stuart@stuartellis.name>
+SPDX-FileCopyrightText: 2025-present Stuart Ellis <stuart@stuartellis.name>
 
 SPDX-License-Identifier: MIT
 -->
@@ -41,4 +41,4 @@ The current version of this project is not for general use.
 
 ## License
 
-MIT © 2024 Stuart Ellis
+MIT © 2025 Stuart Ellis
