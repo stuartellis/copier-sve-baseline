@@ -11,3 +11,6 @@ thumbs.db
 # Code editors
 .idea/
 .vscode/
+
+# Task
+.task
