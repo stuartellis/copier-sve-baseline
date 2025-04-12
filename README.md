@@ -41,7 +41,7 @@ copier update -a .copier-answers-baseline.yaml .
 
 ## Contributing
 
-is project was built for my personal use. I will consider suggestions and Pull Requests, but I might decline anything that makes it less useful for my needs. You are welcome to fork this project.
+This project was built for my personal use. I will consider suggestions and Pull Requests, but I may decline anything that makes it less useful for my needs. You are welcome to fork this project.
 
 ## License
 
