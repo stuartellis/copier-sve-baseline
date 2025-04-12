@@ -16,6 +16,8 @@ The files in this template enable these tools:
 - [Prettier](https://prettier.io/)
 - [REUSE](https://reuse.software/)
 
+The template is used to maintain files in this project itself, as well as other projects.
+
 ## Install
 
 You need [Copier](https://copier.readthedocs.io/en/stable/) to use template for a project. Use [uv](https://docs.astral.sh/uv/) or [pipx](https://pipx.pypa.io/) to run Copier. These tools enable you to use Copier without installing it.
